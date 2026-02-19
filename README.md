@@ -10,7 +10,7 @@ Production-grade BigQuery SQL for MIMIC-IV cohort extraction and feature enginee
 - **6,303 lines** of modular, well-documented BigQuery SQL
 - **7 feature engineering domains** (vitals, labs, meds, comorbidities & more)
 - **6 built-in quality checks** (QC1–QC6) covering coverage, ranges, and bias
-- Estimated runtime: ~45 minutes on full MIMIC-IV
+
 
 ---
 
