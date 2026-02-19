@@ -33,7 +33,7 @@ Interactive risk calculator deployed on Streamlit Cloud
 
 - Patient-level 30-day readmission risk score
 - Model performance dashboard
-- SHAP feature importance visualization
+- Feature importance visualization
 - Clinical recommendations engine
 
 ---
