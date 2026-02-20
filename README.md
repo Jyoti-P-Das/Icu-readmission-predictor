@@ -805,8 +805,8 @@ If you use this code or methodology, please cite:
 
 **Author:** Jyoti Prakash Das  
 **Email:** dasjyoti280@gmail.com 
-**LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/jyoti-prakash-das-hca)  
-**GitHub:** [@yourusername](https://github.com/Jyoti-P-Das)
+**LinkedIn:** [linkedin.com/in/jyoti-prakash-das-hca/](www.linkedin.com/in/jyoti-prakash-das-hca)  
+**GitHub:** [@Jyoti-P-Das](https://github.com/Jyoti-P-Das)
 
 **Questions?** Open an [issue](https://github.com/Jyoti-P-Das/icu-readmission-predictor/issues)
 
