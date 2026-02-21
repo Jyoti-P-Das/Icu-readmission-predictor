@@ -82,7 +82,7 @@ A **complete production-ready ML pipeline** that:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│              MIMIC-IV v2.2 Dataset (Parquet)                    │
+│              MIMIC-IV v3.1 Dataset (Parquet)                    │
 │                 48,676 ICU patients (2008-2019)                 │
 │                 234 raw clinical features                       │
 └────────────────────────────┬────────────────────────────────────┘
@@ -175,7 +175,7 @@ A **complete production-ready ML pipeline** that:
 
 ### MIMIC-IV Database
 
-**Source:** [MIMIC-IV v2.2](https://physionet.org/content/mimiciv/) (Medical Information Mart for Intensive Care)  
+**Source:** [MIMIC-IV v3.1](https://physionet.org/content/mimiciv/) (Medical Information Mart for Intensive Care)  
 **Institution:** Beth Israel Deaconess Medical Center, Boston  
 **Time Period:** 2008–2019  
 **Access:** Requires PhysioNet credentialed access + CITI training
@@ -616,7 +616,7 @@ icu-readmission-predictor/
 1. Create PhysioNet account: https://physionet.org/register/
 2. Complete CITI training: "Data or Specimens Only Research" course
 3. Request MIMIC-IV access: https://physionet.org/content/mimiciv/
-4. Download MIMIC-IV v2.2
+4. Download MIMIC-IV v3.1
 
 **Timeline:** ~1 week for approval
 
