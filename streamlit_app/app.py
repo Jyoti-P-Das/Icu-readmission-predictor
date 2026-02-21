@@ -867,7 +867,7 @@ At a 10% baseline rate, this is a **2.25× lift** over random screening.
 
     st.markdown("---")
     st.markdown("#### 📚 Comparison with Published MIMIC-IV Literature")
-    st.caption("Comparing only with studies using the same dataset (MIMIC-IV) for fair performance evaluation")
+    st.caption("This is a portfolio/learning project, not peer-reviewed research.")
 
     # Load literature comparison CSV
     lit_path = ASSETS_DIR / "literature_comparison_mimiciv.csv"
@@ -890,9 +890,8 @@ At a 10% baseline rate, this is a **2.25× lift** over random screening.
         
         # Add interpretation note
         st.info("""
-        **Interpretation:** Our model (AUC 0.7884) ranks in the **middle-to-upper range** among 
-        published MIMIC-IV ICU readmission studies. Performance is competitive with traditional 
-        ML methods (Random Forest, XGBoost) and slightly below deep learning approaches.
+        **Interpretation:** Performance is competitive with published traditional ML methods on MIMIC-IV, 
+        but this project lacks external validation, prospective testing, and peer review required for clinical deployment.
         """)
     else:
         # Fallback if CSV not found
